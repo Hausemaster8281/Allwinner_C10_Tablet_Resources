@@ -22,6 +22,8 @@ A collection of details and resources for the C10 Allwinner running Android 14
 10) VBMeta is disabled upon unlocking the bootloader
     Do not alter any other partition except init_boot to ensure bootability upon locking the bootloader
 11) Display resolution - 1280 x 800
+12) No 3.5mm headphone jack
+
 # C. Bootloader Unlock Procedure
 1) Spam build number in Settings>About
 2) Enable OEM Unlocking in System>Developer options
