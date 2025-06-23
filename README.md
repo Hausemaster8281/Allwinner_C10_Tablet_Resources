@@ -21,7 +21,7 @@ A collection of details and resources for the C10 Allwinner running Android 14
 9) Security Patch Level (System) - March 2024
 10) VBMeta is disabled upon unlocking the bootloader
     Do not alter any other partition except init_boot to ensure bootability upon locking the bootloader
-
+11) Display resolution - 1280 x 800
 # C. Bootloader Unlock Procedure
 1) Spam build number in Settings>About
 2) Enable OEM Unlocking in System>Developer options
