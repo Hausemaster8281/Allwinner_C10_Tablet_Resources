@@ -19,6 +19,8 @@ A collection of details and resources for the C10 Allwinner running Android 14
 7) Virtual A/B
 8) No publicly released Kernel Sources
 9) Security Patch Level (System) - March 2024
+10) VBMeta is disabled upon unlocking the bootloader
+    Do not alter any other partition except init_boot to ensure bootability upon locking the bootloader
 
 # C. Bootloader Unlock Procedure
 1) Spam build number in Settings>About
