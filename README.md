@@ -19,3 +19,10 @@ A collection of details and resources for the C10 Allwinner running Android 14
 7) Virtual A/B
 8) No publicly released Kernel Sources
 
+# Bootloader Unlock Procedure
+1) Spam build number in Settings>About
+2) Enable OEM Unlocking in System>Developer options
+3) Reboot to bootloader - adb reboot bootloader/vol down+power
+4) fastboot oem unlock
+5) Restart by fastboot reboot
+6) Unlocked BL Successfully
