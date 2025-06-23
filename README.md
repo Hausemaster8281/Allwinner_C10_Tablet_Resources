@@ -18,7 +18,7 @@ A collection of details and resources for the C10 Allwinner running Android 14
     Android Version - 14
 7) Virtual A/B
 8) No publicly released Kernel Sources
-9) Security Patch Level (System) - March 2024
+9) Security Patch Level (System) - March 2024 - Does not pass strong integrity due to the google policy of having received a security patch within the last year
 10) VBMeta is disabled upon unlocking the bootloader
     Do not alter any other partition except init_boot to ensure bootability upon locking the bootloader
 11) Display resolution - 1280 x 800
