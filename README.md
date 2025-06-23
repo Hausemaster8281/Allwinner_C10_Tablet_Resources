@@ -1,7 +1,7 @@
-# Allwinner_C10_Tablet_Resources
+# A. Allwinner_C10_Tablet_Resources
 A collection of details and resources for the C10 Allwinner running Android 14
 
-# Specs and Caveats
+# B. Specs and Caveats
 1) CPU - 
     4 x big 
     4 x small
@@ -20,7 +20,7 @@ A collection of details and resources for the C10 Allwinner running Android 14
 8) No publicly released Kernel Sources
 9) Security Patch Level (System) - March 2024
 
-# Bootloader Unlock Procedure
+# C. Bootloader Unlock Procedure
 1) Spam build number in Settings>About
 2) Enable OEM Unlocking in System>Developer options
 3) Reboot to bootloader - adb reboot bootloader/vol down+power
