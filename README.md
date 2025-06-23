@@ -27,6 +27,7 @@ A collection of details and resources for the C10 Allwinner running Android 14
 14) Main camera - 8MP (with a single-tone LED flash)
 15) Front camera - 5MP
 16) 10-point Multi-touch
+17) GSI image type - system-arm64-ab.img
 
 # C. Bootloader Unlock Procedure
 1) Spam build number in Settings>About
