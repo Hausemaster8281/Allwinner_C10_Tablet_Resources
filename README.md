@@ -18,6 +18,7 @@ A collection of details and resources for the C10 Allwinner running Android 14
     Android Version - 14
 7) Virtual A/B
 8) No publicly released Kernel Sources
+9) Security Patch Level (System) - March 2024
 
 # Bootloader Unlock Procedure
 1) Spam build number in Settings>About
