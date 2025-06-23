@@ -17,3 +17,5 @@ A collection of details and resources for the C10 Allwinner running Android 14
 6) VNDK Level - 33
     Android Version - 14
 7) Virtual A/B
+8) No publicly released Kernel Sources
+
