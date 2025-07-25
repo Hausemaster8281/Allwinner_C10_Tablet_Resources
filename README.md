@@ -23,7 +23,7 @@ A collection of details and resources for the C10 Allwinner running Android 14
     Do not alter any other partition except init_boot to ensure bootability upon locking the bootloader
 11) Display resolution - 1280 x 800
 12) No 3.5mm headphone jack
-13) Display Size - 10 inches
+13) Display Size - 10.1 inches
 14) Main camera - 8MP (with a single-tone LED flash)
 15) Front camera - 5MP
 16) 10-point Multi-touch
