@@ -36,3 +36,9 @@ A collection of details and resources for the C10 Allwinner running Android 14
 4) fastboot oem unlock
 5) Restart by fastboot reboot
 6) Unlocked BL Successfully
+
+# D. A warning about OTA
+Do note that this device may not receive any OTAs in the near future except for Google Play System Updates.
+That being said, new devices may ship with a newer/incremental build.
+If that's the case, DO NOT use the boot image provided in this repository.
+If your security patch level is > March 2024, dump the boot image yourself, using the DSU Sideloader GSI Method.
